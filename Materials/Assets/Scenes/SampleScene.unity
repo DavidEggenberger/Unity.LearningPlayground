@@ -146,7 +146,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 62379475}
-  m_Material: {fileID: 13400000, guid: 7b544381b399c7446b545525f384a74a, type: 2}
+  m_Material: {fileID: 13400000, guid: 3594c583c4fc0ad40a288ead14fe53d3, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -155,7 +155,7 @@ MeshCollider:
     m_Bits: 0
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
-  m_ProvidesContacts: 0
+  m_ProvidesContacts: 1
   m_Enabled: 1
   serializedVersion: 5
   m_Convex: 0
@@ -222,13 +222,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 62379475}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.08946188, w: 0.9959903}
+  m_LocalRotation: {x: -0, y: -0, z: 0.11830301, w: 0.99297756}
   m_LocalPosition: {x: 28.20863, y: 10.35392, z: 1.83002}
   m_LocalScale: {x: 2, y: 1, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2056254994}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 10.265}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 13.588}
 --- !u!54 &62379480
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -556,7 +556,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 563942321}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3594c583c4fc0ad40a288ead14fe53d3, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -693,7 +693,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 612094167}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3594c583c4fc0ad40a288ead14fe53d3, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -887,7 +887,7 @@ MeshCollider:
     m_Bits: 0
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
-  m_ProvidesContacts: 0
+  m_ProvidesContacts: 1
   m_Enabled: 1
   serializedVersion: 5
   m_Convex: 0
@@ -1091,7 +1091,7 @@ Transform:
   m_GameObject: {fileID: 1975866756}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 56.61, y: 14.95, z: -0.05}
+  m_LocalPosition: {x: 59.5, y: 14.95, z: -0.05}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1159,7 +1159,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2068697935}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3594c583c4fc0ad40a288ead14fe53d3, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
