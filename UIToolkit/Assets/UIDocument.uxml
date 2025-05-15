@@ -1,0 +1,12 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UIDocumentStyles.uss?fileID=7433441132597879392&amp;guid=d22ee5341d264e54d875ed346e2bc316&amp;type=3#UIDocumentStyles" />
+    <ui:VisualElement name="UIContainer" style="flex-grow: 1; flex-direction: column; align-items: stretch; background-color: rgb(255, 129, 129); justify-content: flex-start; align-self: auto; align-content: flex-start; position: absolute; top: 50px; left: 100px; width: 500px; height: 700px;">
+        <ui:VisualElement name="ButtonContainer" style="flex-grow: initial; justify-content: flex-start; flex-basis: initial; flex-shrink: initial;">
+            <ui:TextField label="Text Field" placeholder-text="filler text" name="TextField" class="TextField" />
+            <ui:Button text="Button" name="SaveButton" class="SaveButton" />
+        </ui:VisualElement>
+        <ui:VisualElement name="LabelContainer" style="flex-grow: initial; flex-basis: 50px; flex-shrink: initial;">
+            <ui:Label text="Label" class="Label" style="-unity-font-style: bold; font-size: 30px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
